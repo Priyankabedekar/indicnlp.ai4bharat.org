@@ -14,6 +14,7 @@ We are working towards building a better ecosystem for Indian languages.  To thi
 * <a href="/indicnlg-suite"><b>IndicNLG Suite:</b></a> This is a benchmark containing various tasks to evaluate the natural language generation capabilities of language models for Indian languages.
 * <a href="/samanantar"><b>Samanantar:</b></a> Samanantar is the largest publicly available parallel corpora collection for Indic languages : Assamese, Bengali, Gujarati, Hindi, Kannada, Malayalam, Marathi, Oriya, Punjabi, Tamil, Telugu. The corpus has 49.6M sentence pairs between English to Indian Languages.
 * <a href="/indic-trans"><b>IndicTrans:</b></a> IndicTrans is a Transformer-XL model trained on samanantar dataset. Two models are available which can translate from Indic to English and English to Indic. The model can perform translations for 11 lanaguages: Assamese, Bengali, Gujarati, Hindi, Kannada, Malayalam, Marathi, Oriya, Punjabi, Tamil, Telugu.
+* * <a href="/indic-xlit"><b>IndicXlit:</b></a> IndicXlit is a single multilingual, multiscript transliteration model that supports 19 Indic languages namely Assamese (asm), Bengali (ben), Bodo (brx), Gujarati (guj), Hindi (hin), Kannada (kan), Konkani (kok), Kashmiri (kas), Maithili (mai), Malayalam (mal), Manipuri (mni), Marathi (mar), Nepali (nep), Oriya (ori), Punjabi (pan), Sanskrit (san), Tamil (tam), Telugu (tel) and Urdu (urd).
 
 ----
 
